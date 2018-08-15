@@ -1,0 +1,27 @@
+{
+  "name": "simple_rest_api",
+  "version": "1.0.0",
+  "description": "just a tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adriengodoy/rest_api_node_express.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "express"
+  ],
+  "author": "adrien godoy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adriengodoy/rest_api_node_express/issues"
+  },
+  "homepage": "https://github.com/adriengodoy/rest_api_node_express#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
