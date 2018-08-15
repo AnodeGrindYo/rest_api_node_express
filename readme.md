@@ -46,7 +46,7 @@ in the root path of your project, type:
 ```terminal
 npm install express --save
 ```
-you did it like a boss!
+you did it like a boss! 😎
 
 ## What's a REST API?
 
@@ -98,8 +98,8 @@ Server started on http://localhost:3000
 ```
 now, in your browser, go to [http://localhost:3000](http://localhost:3000)
 
-Oh no, a wild error appears! It prints ```Cannot Get /```
-Do you know why, Sherlock? Exactly, we didn't define a get method. let's implement it!
+Oh no, a wild error appears! 😠 It prints ```Cannot Get /```
+Do you know why, Sherlock? Exactly, we didn't define a get method. let's implement it! 😌
 
 ## routing management
 
